@@ -18,5 +18,7 @@ Atualmente é pesquisadora em Ciência de Dados.
 ## Projetos:
 Portfólio de alguns projetos desenvolvidos em Ciência de Dados:
 
-[comment]: <> (* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy )
+[comment]: <> (* **Nome do projeto:** https://bit.ly/2L2cMwy )
+
+* **Análise dos dados do Airbnb - Lisboa - Portugual:** http://bit.ly/2MgMdXU
 
