@@ -20,5 +20,5 @@ Portfólio de alguns projetos desenvolvidos em Ciência de Dados:
 
 [comment]: <> (* **Nome do projeto:** https://bit.ly/2L2cMwy )
 
-* **Análise dos dados do Airbnb - Lisboa - Portugual:** http://bit.ly/2MgMdXU
+* **Análise dos dados do Airbnb - Lisboa - Portugual:** http://bit.ly/3abT7G7
 
