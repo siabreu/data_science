@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LogoDS_novo.jpg" >
+  <img src="logoDS (2).jpg" >
 </p>
 
 # Simone de Abreu
